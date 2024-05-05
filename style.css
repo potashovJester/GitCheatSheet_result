@@ -67,3 +67,7 @@ footer {
     color: #202020;
     font-weight: bold;
 }
+
+.foo {
+    font-weight: lighter;
+}
