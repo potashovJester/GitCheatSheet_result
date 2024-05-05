@@ -16,3 +16,8 @@ header {
 .head_com {
     color: #1a1818;
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
