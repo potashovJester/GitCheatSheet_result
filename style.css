@@ -1,3 +1,4 @@
+/* стилизация header */
 header {
     background-color: #333;
     color: #fff;
@@ -17,6 +18,7 @@ header {
     color: #1a1818;
 }
 
+/* стилизация table */
 table {
     border-collapse: collapse;
     width: 100%;
@@ -32,6 +34,7 @@ th, td {
     text-align: left;
 }
 
+/* стилизация nav */
 nav {
     background-color: #f2f2f2;
     padding: 10px;
@@ -52,6 +55,7 @@ nav ul li a {
     color: #333;
 }
 
+/* стилизация footer */
 footer {
     background-color: #333;
     color: #fff;
