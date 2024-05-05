@@ -8,3 +8,7 @@ header {
 .title {
     font-size: 24px;
 }
+
+.com, tr {
+    color: #cecece;
+}
